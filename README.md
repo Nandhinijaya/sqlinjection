@@ -37,6 +37,7 @@ Select Multidae from the menu listed as shown above. You will get the page as di
 ![3](https://github.com/Nandhinijaya/sqlinjection/assets/121998147/011fd26c-0532-4c8c-ba02-a8d357781fd4)
 
 Click on the menu Login/Register and register for an account
+
 ![4](https://github.com/Nandhinijaya/sqlinjection/assets/121998147/36b2f573-fc4f-41cc-9da4-30c39719c991)
 
 Click on the link “Please register here”
